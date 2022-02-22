@@ -10,6 +10,4 @@ reservation duration).
 Foreigners, where resident customers are granted 25% discount on renting fees.
 
 Customers can do the following functionalities:
-6. Rent a router.
-7. Cancel a rent (accepted only before the start date at least by 2 days).
-8. Extend renting duration.
+Rent a router, Cancel a rent (accepted only before the start date at least by 2 days) and Extend renting duration.
