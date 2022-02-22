@@ -1,6 +1,5 @@
 # Internet-Router-Rental-System
-An Internet Router Rental System is an application that helps managing routers
-rental reservations.
+An Internet Router Rental System is an application that helps managing routers rental reservations.
 The System includes:
 • A router has a unique serial number, a model, number of ports...etc.
 • A reservation that has number, reservation date, start date, type (daily, weekly,
