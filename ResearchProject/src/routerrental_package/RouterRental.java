@@ -12,7 +12,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * @author 
+ * @author Mariam Hesham
  */
 /**
  *Interface contains all functions customer can do.
